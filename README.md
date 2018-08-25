@@ -1,5 +1,5 @@
 # IMD/UFRN - TI - Disciplinas ITP/PTP
-	> Minhas soluções para os problemas do URI ONLINE JUDJES
+> Minhas soluções para os problemas do URI ONLINE JUDJES
 ## Lista Sequencial
 ☐ 1001
 ☐ 1002
